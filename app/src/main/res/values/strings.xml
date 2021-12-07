@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exercise № 4</string>
+    <string name="Сраница_1">Страница_1</string>
+    <string name="Страница_2">Страница_2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Страница1">Привет первая страница</string>
+    <string name="Привет_1">Привет первая страница</string>
+    <string name="Привет2">Привет вторая страница</string>
+    <string name="page_1">Страница 1</string>
+    <string name="page_2">Страница 2</string>
+</resources>
