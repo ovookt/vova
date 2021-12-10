@@ -5,12 +5,14 @@
     android:layout_height="match_parent"
     tools:context=".Fragment1">
 
-    <TextView
+
+    <Button
+        android:id="@+id/UrlButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:orientation="horizontal"
         android:layout_gravity="center"
-        android:text="@string/Привет_1"
-        android:textColor="@color/purple_200"
-        android:textSize="30sp" />
+        android:text="@string/UrlButton" />
+
 
 </FrameLayout>

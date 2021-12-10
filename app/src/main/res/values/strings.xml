@@ -9,4 +9,11 @@
     <string name="Привет2">Привет вторая страница</string>
     <string name="page_1">Страница 1</string>
     <string name="page_2">Страница 2</string>
+    <string name="URL">Ссылка</string>
+    <string name="Ссылка">Url</string>
+    <string name="Браузер">Браузер</string>
+    <string name="UrlButton">go</string>
+    <string name="googleLink">https://mail.ru</string>
+    <string name="Telegram">Telegram</string>
+    <string name="Call">Call</string>
 </resources>
